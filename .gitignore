@@ -4,6 +4,7 @@
 *.Rout
 .DS_Store
 .future
+renv/
 .Rapp.history
 .RData
 .Rhistory
